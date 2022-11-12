@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<series>
+    <serie>
+        <title>Games of Throne </title>
+        <director>Alan Taylor </director>
+        <producer>George R. R. Martin</producer>
+        <Release>
+            <year>2011</year>
+            <month>April</month>
+        </Release>
+    </serie>
+
+    <serie>
+    <title>Estamos Muertos</title>
+    <director>Lee Jae-kyoo </director>
+    <producer> Netflix</producer>
+    <Release>
+        <year>2022</year>
+        <month>januay</month>
+    </Release>
+    </serie>
+
+    <serie>
+    <title>Greys Anatomi</title>
+    <director>Kevin McKidd</director>
+    <producer>Shonda Rhimes </producer>
+    <Release>
+        <year>2005</year>
+        <month>March</month>
+    </Release>
+    </serie>
+
+    <serie>
+        <title > The witcher </title>
+        <director>Sean Daniel​  </director>
+        <producer>Netflix </producer>
+        <Release>
+            <year>2019</year>
+            <month>December</month>
+        </Release>
+    </serie>
+
+    <serie>
+        <title>The boys</title>
+        <director>Dan Trachtenberg </director>
+        <producer> Eric Kripke </producer>
+        <Release>
+            <year>2019</year>
+            <month>jule</month>
+        </Release>
+    </serie>
+</series>
